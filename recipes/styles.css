@@ -1,15 +1,19 @@
 p, .Steps{
     font-size: 22px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua;
+
 }
 .Ing{
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aqua;
 }
 
 h3{
     font-size: 30px;
-}
+    background-color: turquoise ;
+}   
 h1{
     font-size: 36px;
 }
